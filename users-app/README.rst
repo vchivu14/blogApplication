@@ -2,7 +2,7 @@
 Users
 =====
 
-Users is a Django app to create profiles and provide login.
+Users is a separate module here used to create profiles and provide login for the blogapp.
 
 Quick start
 -----------
