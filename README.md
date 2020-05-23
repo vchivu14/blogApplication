@@ -21,5 +21,6 @@
         "EMAIL_USER": "",
         "EMAIL_PASS": ""
     }</li>
-  <h5>Don't share this file with anyone</h5>
 </ul>
+<h5>Don't share this file with anyone</h5>
+
