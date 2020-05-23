@@ -14,15 +14,11 @@
   <li>check localhost:8000</li>
 </ol>
 <h5> Create a file named config.json on your computer with credentials to enable mail retrieval</h5>
-<p>
-$ sudo nano /etc/config.json
-</p>
-<p>
-# and paste in your own credentials
-</p>
-<p>
-{
+<ul>
+  <li>$ sudo nano /etc/config.json</li>
+  <li># paste in your own credentials just like bellow</li>
+  <li>{
         "EMAIL_USER": "",
         "EMAIL_PASS": ""
-}
-</p>
+    }</li>
+  <h5>Don't share this file with anyone</h5>
