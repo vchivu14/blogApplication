@@ -4,8 +4,6 @@ Users
 
 Users is a Django app to create profiles and provide login.
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
