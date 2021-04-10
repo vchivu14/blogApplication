@@ -2,7 +2,7 @@
 
 <ol>
   <li>git clone https://github.com/vchivu14/blogapp.v2.git</li>
-  <li>cd blogapp2</li>
+  <li>cd blogap2</li>
   <li>python3 -m venv venv</li>
   <li>source venv/bin/activate</li>
   <li>pip install -r requirements.txt</li>
